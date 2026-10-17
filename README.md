@@ -1,7 +1,7 @@
-<img src="logopausacamaleo.png" align="right" width="120" style="margin-right: 20px;" />
+
 
 # ⏳ Pausa Camaleònica
-
+<img src="logopausacamaleo.png" align="right" width="120" style="margin-right: 20px;" />
 L'aplicació de descans camaleònic funciona de la següent manera:
 - 50 minuts de treball.
 - 5 minuts de pausa.
