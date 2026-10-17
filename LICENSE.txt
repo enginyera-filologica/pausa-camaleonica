@@ -1,0 +1,25 @@
+========================================================================
+TERMES DE LA LLICÈNCIA / TERMS OF LICENSE
+========================================================================
+
+Pausa camaleònica © 2026 d'Enginyera Filològica està llicenciat sota la llicència Creative Commons Reconeixement-NoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+Aquesta llicència s'aplica tant al codi font de PowerShell (pausa-camaleonica.ps1) com a la seua versió compilada o executable (pausa-camaleonica.exe).
+
+Per veure una còpia d'aquesta llicència, visiteu:
+https://creativecommons.org
+
+EXEMPCIÓ DE RESPONSABILITAT:
+Aquest programari es proporciona "tal com està", sense cap mena de garantia, expressa o implícita. En cap cas l'autora serà responsable de cap reclamació, dany o altra responsabilitat derivada de l'ús, descàrrega, modificació o funcionament d'aquest script de PowerShell o del seu fitxer executable .exe.
+
+------------------------------------------------------------------------
+
+Pausa camaleònica © 2026 by Enginyera Filològica is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+This license applies to both the PowerShell source code (pausa-camaleonica.ps1) and its compiled or executable version (pausa-camaleonica.exe).
+
+To view a copy of this license, visit:
+https://creativecommons.org
+
+DISCLAIMER:
+This software is provided "as is", without warranty of any kind, express or implied. In no event shall the author be liable for any claim, damages or other liability arising from the use, download, modification or operation of this PowerShell script or its executable .exe file.
