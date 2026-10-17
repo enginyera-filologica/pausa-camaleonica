@@ -13,8 +13,8 @@ El programa t'avisa quan han passat els 50 minuts i et proposa descansar. Si en 
 ---
 # 📦 Descàrrega
 
-Ho podeu descarregar en format de programari (.exe) o el codi font de PowerShell:
-a) [**Software de Pausa Camaleònica (Format .exe)**](pausa-camaleonica.exe)
+Ho podeu descarregar en format de programari (.exe) o el codi font de PowerShell: <br>
+a) [**Software de Pausa Camaleònica (Format .exe)**](pausa-camaleonica.exe)<br>
 b) [**Codi de PowerShell (pausa-camaleonica.ps1)**](pausa-camaleonica.ps1) + Guia d'activació 
 
 ## 🛡️ Seguretat i Fiabilitat
